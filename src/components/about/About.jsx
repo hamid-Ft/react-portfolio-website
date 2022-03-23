@@ -40,10 +40,9 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae
-            magnam corrupti nihil aperiam, eaque repellendus ullam non.
-            Repellendus voluptates animi ratione nemo vel beatae vero laudantium
-            mollitia, ipsa dolorem ipsam.
+            Bachelor of Arts; Painting <br /> Thesis: Analyzing the social
+            interactions in the works of social realist painters. <br />
+            Diploma; Graphic design
           </p>
 
           <a href="#contact" className="btn btn-primary">

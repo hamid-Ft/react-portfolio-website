@@ -54,7 +54,7 @@ h1 {
   font-size: 2rem;
 }
 section {
-  transform: translateY(8rem);
+  margin: 8rem;
 }
 
 section > h2,
@@ -65,7 +65,7 @@ section > h5 {
 
 section > h2 {
   color: var(--color-primary);
-  margin-top: 0rem;
+  margin-bottom: 3rem;
 }
 
 .text-light {
