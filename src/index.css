@@ -37,7 +37,7 @@ body {
   line-height: 1.7;
   background-image: url(./assets/bg-texture.png);
 }
-/* ################## GENRAL STYLES ################# */
+/* ! ################## GENRAL STYLES ################# */
 
 .container {
   width: var(--container-width-lg);
